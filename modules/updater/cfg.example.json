@@ -1,0 +1,11 @@
+{
+    "debug": true,
+    "hostname": "",
+    "desiredAgent": "",
+    "server": "10.101.9.240:2000",
+    "interval": 10,
+    "http": {
+        "enabled": true,
+        "listen": "0.0.0.0:2001"
+    }
+}

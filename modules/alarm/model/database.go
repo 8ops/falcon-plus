@@ -17,8 +17,8 @@ package model
 import (
 	"github.com/astaxie/beego/orm"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/open-falcon/falcon-plus/modules/alarm/g"
-	"github.com/open-falcon/falcon-plus/modules/alarm/model/event"
+	"github.com/8ops/falcon-plus/modules/alarm/g"
+	"github.com/8ops/falcon-plus/modules/alarm/model/event"
 )
 
 func InitDatabase() {

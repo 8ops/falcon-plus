@@ -15,7 +15,7 @@
 package cron
 
 import (
-	"github.com/open-falcon/falcon-plus/modules/judge/store"
+	"github.com/8ops/falcon-plus/modules/judge/store"
 	"time"
 )
 

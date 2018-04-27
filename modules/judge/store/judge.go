@@ -17,8 +17,8 @@ package store
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/open-falcon/falcon-plus/common/model"
-	"github.com/open-falcon/falcon-plus/modules/judge/g"
+	"github.com/8ops/falcon-plus/common/model"
+	"github.com/8ops/falcon-plus/modules/judge/g"
 	"log"
 )
 

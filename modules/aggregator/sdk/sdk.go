@@ -17,10 +17,10 @@ package sdk
 import (
 	"encoding/json"
 	"fmt"
-	cmodel "github.com/open-falcon/falcon-plus/common/model"
-	"github.com/open-falcon/falcon-plus/common/sdk/requests"
-	"github.com/open-falcon/falcon-plus/modules/aggregator/g"
-	f "github.com/open-falcon/falcon-plus/modules/api/app/model/falcon_portal"
+	cmodel "github.com/8ops/falcon-plus/common/model"
+	"github.com/8ops/falcon-plus/common/sdk/requests"
+	"github.com/8ops/falcon-plus/modules/aggregator/g"
+	f "github.com/8ops/falcon-plus/modules/api/app/model/falcon_portal"
 	"github.com/toolkits/net/httplib"
 	"time"
 )

@@ -21,7 +21,7 @@ import (
 
 	"github.com/toolkits/file"
 
-	"github.com/open-falcon/falcon-plus/modules/nodata/g"
+	"github.com/8ops/falcon-plus/modules/nodata/g"
 )
 
 func configCommonRoutes() {

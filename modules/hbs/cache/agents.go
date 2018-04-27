@@ -19,8 +19,8 @@ package cache
 // 提供http接口查询机器信息，排查重名机器的时候比较有用
 
 import (
-	"github.com/open-falcon/falcon-plus/common/model"
-	"github.com/open-falcon/falcon-plus/modules/hbs/db"
+	"github.com/8ops/falcon-plus/common/model"
+	"github.com/8ops/falcon-plus/modules/hbs/db"
 	"sync"
 	"time"
 )

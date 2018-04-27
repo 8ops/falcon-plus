@@ -19,10 +19,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/open-falcon/falcon-plus/modules/gateway/g"
-	"github.com/open-falcon/falcon-plus/modules/gateway/http"
-	"github.com/open-falcon/falcon-plus/modules/gateway/receiver"
-	"github.com/open-falcon/falcon-plus/modules/gateway/sender"
+	"github.com/8ops/falcon-plus/modules/gateway/g"
+	"github.com/8ops/falcon-plus/modules/gateway/http"
+	"github.com/8ops/falcon-plus/modules/gateway/receiver"
+	"github.com/8ops/falcon-plus/modules/gateway/sender"
 )
 
 func main() {

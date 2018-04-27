@@ -16,7 +16,7 @@ package http
 
 import (
 	"encoding/json"
-	"github.com/open-falcon/falcon-plus/modules/hbs/g"
+	"github.com/8ops/falcon-plus/modules/hbs/g"
 	"log"
 	"net/http"
 	_ "net/http/pprof"

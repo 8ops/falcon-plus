@@ -21,11 +21,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/open-falcon/falcon-plus/common/sdk/sender"
-	"github.com/open-falcon/falcon-plus/modules/aggregator/cron"
-	"github.com/open-falcon/falcon-plus/modules/aggregator/db"
-	"github.com/open-falcon/falcon-plus/modules/aggregator/g"
-	"github.com/open-falcon/falcon-plus/modules/aggregator/http"
+	"github.com/8ops/falcon-plus/common/sdk/sender"
+	"github.com/8ops/falcon-plus/modules/aggregator/cron"
+	"github.com/8ops/falcon-plus/modules/aggregator/db"
+	"github.com/8ops/falcon-plus/modules/aggregator/g"
+	"github.com/8ops/falcon-plus/modules/aggregator/http"
 )
 
 func main() {

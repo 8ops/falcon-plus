@@ -19,9 +19,9 @@ import (
 	"fmt"
 	log "github.com/Sirupsen/logrus"
 	"github.com/garyburd/redigo/redis"
-	"github.com/open-falcon/falcon-plus/modules/alarm/api"
-	"github.com/open-falcon/falcon-plus/modules/alarm/g"
-	"github.com/open-falcon/falcon-plus/modules/alarm/redi"
+	"github.com/8ops/falcon-plus/modules/alarm/api"
+	"github.com/8ops/falcon-plus/modules/alarm/g"
+	"github.com/8ops/falcon-plus/modules/alarm/redi"
 	"strings"
 	"time"
 )

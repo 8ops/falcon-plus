@@ -22,8 +22,8 @@ import (
 	log "github.com/Sirupsen/logrus"
 
 	"github.com/gin-gonic/gin"
-	"github.com/open-falcon/falcon-plus/modules/api/app/model/uic"
-	"github.com/open-falcon/falcon-plus/modules/api/config"
+	"github.com/8ops/falcon-plus/modules/api/app/model/uic"
+	"github.com/8ops/falcon-plus/modules/api/config"
 	"github.com/spf13/viper"
 )
 

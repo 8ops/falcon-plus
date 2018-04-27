@@ -16,8 +16,8 @@ package http
 
 import (
 	"fmt"
-	"github.com/open-falcon/falcon-plus/common/model"
-	"github.com/open-falcon/falcon-plus/modules/hbs/cache"
+	"github.com/8ops/falcon-plus/common/model"
+	"github.com/8ops/falcon-plus/modules/hbs/cache"
 	"net/http"
 )
 
